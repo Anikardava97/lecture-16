@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EEAB359D2AEEF3580041DE59 /* ThirdVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEAB359C2AEEF3580041DE59 /* ThirdVC.swift */; };
 		EEEA07AF2AECDCB100E6B947 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEEA07AE2AECDCB100E6B947 /* AppDelegate.swift */; };
 		EEEA07B12AECDCB100E6B947 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEEA07B02AECDCB100E6B947 /* SceneDelegate.swift */; };
 		EEEA07B32AECDCB100E6B947 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEEA07B22AECDCB100E6B947 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EEAB359C2AEEF3580041DE59 /* ThirdVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdVC.swift; sourceTree = "<group>"; };
 		EEEA07AB2AECDCB100E6B947 /* lecture 16.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "lecture 16.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEEA07AE2AECDCB100E6B947 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EEEA07B02AECDCB100E6B947 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				EEEA07B02AECDCB100E6B947 /* SceneDelegate.swift */,
 				EEEA07B22AECDCB100E6B947 /* ViewController.swift */,
 				EEEA07C22AECED1A00E6B947 /* SecondVC.swift */,
+				EEAB359C2AEEF3580041DE59 /* ThirdVC.swift */,
 				EEEA07B72AECDCB400E6B947 /* Assets.xcassets */,
 				EEEA07B92AECDCB400E6B947 /* LaunchScreen.storyboard */,
 				EEEA07BC2AECDCB400E6B947 /* Info.plist */,
@@ -141,6 +144,7 @@
 				EEEA07AF2AECDCB100E6B947 /* AppDelegate.swift in Sources */,
 				EEEA07C32AECED1A00E6B947 /* SecondVC.swift in Sources */,
 				EEEA07B12AECDCB100E6B947 /* SceneDelegate.swift in Sources */,
+				EEAB359D2AEEF3580041DE59 /* ThirdVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
